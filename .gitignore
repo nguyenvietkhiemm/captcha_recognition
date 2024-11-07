@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-captcha_project
-logs
+./captcha_project
+./logs
